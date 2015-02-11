@@ -2695,9 +2695,12 @@ founder of the abbey the monks belonged to. I have ſeen ſeveral of theſe piec
             </opener>
             <p>HEREWITH I ſend you ſome curious Saxon achievements; an inedited coin of Sex<g ref="char:EOLhyphen"/>burgeo, wife of Kinewalch, king of the Weſt-Sax<g ref="char:EOLhyphen"/>ons, after whoſe death ſhe reigned queen; and a Saxon amulet.</p>
             <p>As no part of antiquity is ſo little known as Saxon heraldry, I ſhall not pretend to be infalli<g ref="char:EOLhyphen"/>ble in the following conjectural explanation of the bearings.</p>
-            <figure>
-               <figDesc>diagrams of Saxon achievements</figDesc>
-            </figure>
+            <p>
+               <pb facs="tcp:0536900400:165" rendition="simple:additions"/>
+               <figure>
+                  <figDesc>diagrams of Saxon achievements</figDesc>
+               </figure>
+            </p>
             <list>
                <pb n="134" facs="tcp:0536900400:164" rendition="simple:additions"/>
                <item>
@@ -3084,7 +3087,8 @@ The baron found many things worthy his no<g ref="char:EOLhyphen"/>tice in the ru
             <p>
                <pb n="202" facs="tcp:0536900400:233"/>
 The original inſcription was: James Hicks lieth here, with Heſter his wife.</p>
-            <figure/>
+            <p>The broken ſtone is here represented, <figure/>
+            </p>
             <p>The baron having turned over Camden, Dug<g ref="char:EOLhyphen"/>dale, Leyland, and Wever, at laſt determined it to be, <hi>Hic jacet corpus Kenelmae Sancto Legero. Re<g ref="char:EOLhyphen"/>quicſeat,</hi> &amp;c. &amp;c. What confirmed him in the above reading, and made it impoſſible for him to be miſtaken, was, that a great man of the name of Sancto Legero, had been buried in the county about five hundred years ago.</p>
             <p>Elated with the happy diſcovery, the Baron had an elegant engraving of the curioſity executed, and preſented it to the ſociety of antiquaries, who look upon it as one of the moſt important diſcoveries which have been made ſince the great Dr. Trefoil found out, that the word <hi>kine</hi> came from the Sax<g ref="char:EOLhyphen"/>on <hi>co<gap reason="illegible" resp="#OXF" extent="1+ letters">
                      <desc>•…</desc>
